@@ -10,7 +10,7 @@ Version: 0.5.5
 Text Domain: currencyconverter
 Domain Path: /languages/
 Requires at least: 4.0.0
-Tested up to: 6.6
+Tested up to: 6.7
 License: GPLv2 or later
 */
 
